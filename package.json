@@ -1,0 +1,9 @@
+{
+  "name": "people",
+  "version": "1.0.0",
+  "description": "simple people server",
+  "main": "server.js",
+  "repository": "https://github.com/d3z/people-js.git",
+  "author": "Gareth Fleming",
+  "license": "MIT"
+}
